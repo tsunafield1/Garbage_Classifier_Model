@@ -1,0 +1,26 @@
+<annotation>
+	<folder>battery</folder>
+	<filename>battery658.jpg</filename>
+	<path>D:\งาน\KMITL\ปี3\ปี3เทอม2\Introduction to Data Analytics\Assignment\Project\Garbage Classification\battery\battery658.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Battery</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>2</ymin>
+			<xmax>196</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>
